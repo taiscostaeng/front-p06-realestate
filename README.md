@@ -1,7 +1,6 @@
 <h1> Project Number 06 - Real Estate 🏡 </h1>
 
-P06 - Real Estate 🔑🏘 - This file is about my fifth project using CSS language. I used selectors for stylize my HTML code. We can use tag selectors or class to define style for our pages 😊😉.
-See here <a href = https://taiscostaeng.github.io/front-p06-realestate/> See Here </a>
+P06 - Real Estate 🔑🏘 - This file is about my fifth project using CSS language. I used selectors for stylize my HTML code. We can use tag selectors or class to define style for our pages 😊😉. <a href = https://taiscostaeng.github.io/front-p06-realestate/> See Here </a>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2> 👩🏽‍🔧 Languages and Tools </h2>
